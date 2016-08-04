@@ -135,6 +135,10 @@ footer .footer-right {
     color: #ffffff;
 }
 
+footer .footer-right p {
+    margin-bottom: 0px;
+}
+
 footer .footer-right a {
     display: inline-block;
     width: 35px;
